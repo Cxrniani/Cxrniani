@@ -1,9 +1,4 @@
-   ___                     _                _ 
-  / __\__  __ _ __  _ __  (_)  __ _  _ __  (_)
- / /   \ \/ /| '__|| '_ \ | | / _` || '_ \ | |
-/ /___  >  < | |   | | | || || (_| || | | || |
-\____/ /_/\_\|_|   |_| |_||_| \__,_||_| |_||_|
-                                              
+
 
 -  Hi, I’m Matheus Corniani, AKA Cxrniani. i'm a 20yo brazilian dev!
 -  I’m interested in learning everything i can, improve my skills and make some extra rent until i graduate!
