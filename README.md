@@ -1,4 +1,4 @@
-
+- !!! Not using this profile at the moment, see more on my professional acc: https://github.com/matheus-corniani-tarken !!!
 
 -  Hi, I’m Matheus Corniani, AKA Cxrniani. i'm a 22yo brazilian dev!
 -  I’m interested in learning everything i can, improve my skills and make some extra rent until i graduate!
